@@ -1,5 +1,5 @@
 # Discord-UserId-Scraper
-A simple script taking use of Discord.Py to scrape the user id's of all members in a certain discord guild.
+A simple script making use of Discord.Py to scrape all user id's in a certain discord guild.
 
 ## Bot token
 1. The first thing you will do is create a 'Bot Token' which can be created [here](https://discord.com/developers/applications)
